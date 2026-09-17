@@ -1,2 +1,4 @@
-Proyecto Ivan
-Practica de Github realizada en linux
+Segunda version
+
+
+Estoy aprendiendo control de versiones con git
